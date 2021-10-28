@@ -8,22 +8,27 @@ This is essentially the config I've been copying from project to project for the
 
 ## Great extras
 
-#### Chakra UI
+#### [Chakra UI](https://chakra-ui.com)
 Handy React UI library. From their ['getting started' page](https://chakra-ui.com/docs/getting-started):
+
 ```yarn add @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^4```
 
-#### Axios
+#### [Axios](https://axios-http.com/docs/intro)
 Industry standard AJAX library.
+
 ```yarn add axios```
 
-#### Navigo
+#### [Navigo](https://github.com/krasimir/navigo)
 Friendly, light router library.
+
 ```yarn add navigo```
 
-#### Firebase
+#### [Firebase](https://firebase.google.com/docs/reference)
 Batteries includede serverless apps.
+
 ```yarn add firebase firebase-tools```
 
-#### Luxon date helpers
+#### [Luxon](https://moment.github.io/luxon/#/?id=luxon)
 Best-of-breed date helpers.
+
 ```yarn add @date-io/luxon```
